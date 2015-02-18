@@ -296,7 +296,7 @@
 	<key>MaxVertically</key>
 	<false/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Github/iTerms_settings</string>
+	<string>~/Github/iterm_config</string>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
@@ -304,13 +304,13 @@
 	<key>NSScrollAnimationEnabled</key>
 	<false/>
 	<key>NSWindow Frame Preferences</key>
-	<string>-1162 445 924 485 -1920 46 1920 1058 </string>
+	<string>269 174 924 485 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-1916 50 1690 1049 -1920 46 1920 1058 </string>
+	<string>4 0 1276 778 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>2150 46 1690 1049 1920 42 1920 1058 </string>
+	<string>4 127 890 651 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>230 0 1690 1178 0 0 1920 1178 </string>
+	<string>173 27 890 651 0 0 1280 778 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -936,7 +936,7 @@
 			<key>Visual Bell</key>
 			<true/>
 			<key>Window Type</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>Working Directory</key>
 			<string>/Users/satblip</string>
 		</dict>
@@ -987,7 +987,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/satblip/Github/iTerms_settings</string>
+	<string>/Users/satblip/Github/iterm_config</string>
 	<key>PromptOnQuit</key>
 	<true/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -1003,7 +1003,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-02-17T19:44:07Z</date>
+	<date>2015-02-18T20:45:59Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
