@@ -6,6 +6,8 @@
 	<true/>
 	<key>AllowClipboardAccess</key>
 	<false/>
+	<key>AlternateMouseScroll</key>
+	<true/>
 	<key>AnimateDimming</key>
 	<false/>
 	<key>AppleAntiAliasingThreshold</key>
@@ -342,13 +344,15 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>412 364 620 392 0 0 1440 878 </string>
+	<string>650 499 620 392 0 0 1920 1058 </string>
+	<key>NSWindow Frame SessionsPreferences</key>
+	<string>269 126 606 469 0 0 1440 878 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>269 228 918 381 0 0 1440 878 </string>
+	<string>269 441 928 394 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>4 23 1436 855 0 0 1440 878 </string>
+	<string>0 0 1690 1058 0 0 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>0 0 1690 1178 0 0 1920 1178 </string>
+	<string>0 0 1690 1058 0 0 1920 1058 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>124 0 1690 1178 0 0 1920 1178 </string>
 	<key>New Bookmarks</key>
@@ -999,6 +1003,8 @@
 	<false/>
 	<key>OpenTmuxWindowsIn</key>
 	<integer>0</integer>
+	<key>PMPrintingExpandedStateForPrint2</key>
+	<false/>
 	<key>PassOnControlClick</key>
 	<false/>
 	<key>PasteFromClipboard</key>
@@ -1040,6 +1046,8 @@
 	</dict>
 	<key>PrefsCustomFolder</key>
 	<string>/Users/satblip/Github/iterm_config</string>
+	<key>Print In Black And White</key>
+	<true/>
 	<key>PromptOnQuit</key>
 	<true/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -1048,8 +1056,10 @@
 	<integer>8</integer>
 	<key>RightOption</key>
 	<integer>3</integer>
+	<key>SUAutomaticallyUpdate</key>
+	<false/>
 	<key>SUEnableAutomaticChecks</key>
-	<true/>
+	<false/>
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
@@ -1057,7 +1067,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-12-13T19:20:23Z</date>
+	<date>2018-09-05T19:30:13Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -1111,6 +1121,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.1.5.beta.2</string>
+	<string>3.2.1beta3</string>
 </dict>
 </plist>
